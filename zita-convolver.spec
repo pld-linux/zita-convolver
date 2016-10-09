@@ -1,7 +1,7 @@
 Summary:	C++ library implementing a real-time convolution matrix
 Name:		zita-convolver
 Version:	3.1.0
-Release:	0.1
+Release:	1
 License:	GPL v3+
 Group:		Libraries
 Source0:	http://kokkinizita.linuxaudio.org/linuxaudio/downloads/%{name}-%{version}.tar.bz2
