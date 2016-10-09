@@ -6,7 +6,7 @@ License:	GPL v3+
 Group:		Libraries
 Source0:	http://kokkinizita.linuxaudio.org/linuxaudio/downloads/%{name}-%{version}.tar.bz2
 # Source0-md5:	7e264d0fb0d8ea277cdb4e33d764c68a
-URL:		-
+URL:		http://kokkinizita.linuxaudio.org/linuxaudio/
 BuildRequires:	fftw3-single-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
